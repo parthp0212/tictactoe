@@ -61,6 +61,8 @@ board = [[' ', ' ', ' '],
 
 print(board)
 
+#this is a test!
+
 
 running = True
 while running:
